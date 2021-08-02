@@ -18,7 +18,7 @@
           <ul class="navbar-nav mr-auto my-2 my-lg-0 navbar-nav-scroll" style="max-height: 100px;">
             <li class="nav-item active">
               <a class="nav-link" href="#">
-                Sertifikasi
+                Sertifikasi 
                 <span class="sr-only">(current)</span>
               </a>
             </li>
